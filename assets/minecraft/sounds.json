@@ -1,9 +1,17 @@
 {
-
-  "block.bell.use": {
-
-    "sounds": [
-
-      "custom/smokeWeedEveryDay" ]
-
-  }}
+    "block.bell.use": {
+        "subtitle": "Unknown sound",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "custom/smokeWeedEveryday",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    }
+}
