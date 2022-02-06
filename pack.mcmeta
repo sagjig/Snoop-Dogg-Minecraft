@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": "Addz gangsta drizzle to yo' installizzle, yo."
+  },
+  "language":{
+	"LANG_COUNTRY":{
+		"name": "Gangsta",
+		"region": "The L.B.C.",
+		"bidirectional": false
+		}
+  }
+}
