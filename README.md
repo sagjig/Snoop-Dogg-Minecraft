@@ -2,9 +2,22 @@
 
 Note: Contains strong language, drug references, and sexually explicit language.
 
-A resource pack for Minecraft where all in-game text has been fed through Gizoogle.net's translator. Hilarity ensues.
+A resource pack for Minecraft where all in-game text has been fed through Gizoogle.net's translator. Hilarity will ensue.
+
+Adds 'Gangsta' language to your options, and makes some changes to backgrounds. Also, the bell ringing noise is now a sample from "The Next Episode".
 
 
-Adds 'Gangsta' language to your options, and makes some changes to backgrounds. 
+Usage:
+For Minecraft 1.18.1. 
+1.) Extract into your resourcepacks folder (default on Windows is %AppData%\Roaming\.minecraft\resourcepacks ). 
+2.) Select the "Snoop Dogg Language Resource Pack" in Settings>Resource Packs. 
+3.) Go to the languages icon (globe on main menu), and select "Gangsta (The L.B.C.)".
+4.) Enjoy!
 
-Install in your 'resourcepacks' folder.
+
+Attribution:
+Menu background: "Marijuana Plants" by Anthony Quintano, licensed under CC BY 2.0
+Bell ringing noise: "The Next Episode" by Dr. Dre (feat. Snoop Dogg)
+Resourcepack icon: 
+	-"Snoop Dogg on Weed(s)", a promotional short for the TV show "Weeds"
+	- a screenshot from "Cannabis in Minecraft: A Critical Review", an article from Weedist.com
