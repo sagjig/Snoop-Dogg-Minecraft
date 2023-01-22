@@ -1,7 +1,7 @@
 Snoop-Dogg-Minecraft
 =============
 
-_Disclaimer: This application contains explicit language and references to drug use.
+_Disclaimer: This application contains explicit language and references to drug use._
 
 A resource pack for Minecraft 1.18 where all in-game text has been fed through Gizoogle.net's translator. Hilarity will ensue.
 
